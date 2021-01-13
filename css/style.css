@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.slider-section{
+    background-color:#FCEAE8;
+}
+.categories img{
+    height: 100px;
+}
+.custom-border{
+    height: 110px;
+    border-radius: 10px!important;
+}
