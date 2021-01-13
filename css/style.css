@@ -1,7 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-.slider-section{
+.custom-bg{
     background-color:#FCEAE8;
 }
 .categories img{
@@ -10,4 +10,7 @@ body{
 .custom-border{
     height: 110px;
     border-radius: 10px!important;
+}
+.get-touch{
+    border-radius: 10px;
 }
